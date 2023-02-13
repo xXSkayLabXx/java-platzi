@@ -25,5 +25,9 @@ public class Casting {
         short nS = (short) n;
 
         System.out.println(nS);
+
+        char c1 = 'z';
+        int c2 = c1;
+        System.out.println(c2);
     }
 }

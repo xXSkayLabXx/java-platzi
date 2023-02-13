@@ -17,5 +17,7 @@ public class DataTypes {
 
         var employeeName = "Fabian Cuartas";
         System.out.println(employeeName + " tiene un sueldo de: " + totalSalary + " Dolares inicialmente");
+
+
     }
 }
