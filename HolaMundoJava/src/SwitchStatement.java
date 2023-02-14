@@ -1,6 +1,9 @@
 public class SwitchStatement {
+
     public static void main(String[] args) {
         String colorModeSelected = "Dark";
+
+
         switch (colorModeSelected){
             case    "Lighht":
                 System.out.println("Seleccionaste Light Mode");
